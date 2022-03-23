@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+
+:root {
+    --clr-dark: #312614;
+    --clr-brown: #b7832f;
+    --clr-grey: #707070;
+    --clr-primary: #fff;
+}
+
+.container {
+    max-width: 980px;
+}
+
+body {
+    font-size: 1.125rem;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
